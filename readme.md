@@ -21,11 +21,3 @@ Python | Django | OOP | Amazon Web Services | GitLab CI/CD | Linux | Shell Scrip
 
 ## Contact
 - marcelotsvaz@gmail.com
-
-
-### Also:
-- [Steam](https://steamcommunity.com/id/marcelotsvaz)
-- [MyAnimeList](https://myanimelist.net/profile/Marcelotsvaz)
-- [Twitter](https://twitter.com/Marcelotsvaz)
-
-[<img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="10"> Codewars](https://www.codewars.com/users/Marcelotsvaz)
