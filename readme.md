@@ -3,7 +3,7 @@ I'm Marcelo Vaz, a DevOps engineer from Brazil.
 
 
 ## Skills
-Python | Django | OOP | Amazon Web Services | GitLab CI/CD | Linux | Shell Scripting | Docker | Terraform
+Python | Django | OOP | Amazon Web Services | GitLab CI/CD | Linux | Shell Scripting | Docker | Terraform | Ansible
 
 
 ## Projects
@@ -17,6 +17,10 @@ Python | Django | OOP | Amazon Web Services | GitLab CI/CD | Linux | Shell Scrip
 - [GitHub](https://github.com/Marcelotsvaz)
 - [Stack Overflow](https://stackoverflow.com/users/5283604/marcelotsvaz)
 - [Codewars](https://www.codewars.com/users/Marcelotsvaz)
+
+
+## Résumé
+[View PDF](/static/resume.pdf)
 
 
 ## Contact
